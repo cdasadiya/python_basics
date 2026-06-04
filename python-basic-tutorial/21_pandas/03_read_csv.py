@@ -16,15 +16,6 @@
 # - Run the file after every small change.
 
 from pathlib import Path
-import importlib.util
-
-# This chapter uses the third-party package "pandas".
-# If it is not installed yet, the file still exits cleanly and tells the learner what to do.
-if importlib.util.find_spec("pandas") is None:
-    print("This example needs the pandas package.")
-    print("Install it with: python -m pip install pandas")
-    raise SystemExit(0)
-
 import pandas as pd
 file_path = Path(__file__).with_name("students_pandas.csv")
 file_path.write_text("name,marks\nAlex,90\nMaya,85\n", encoding="utf-8")
