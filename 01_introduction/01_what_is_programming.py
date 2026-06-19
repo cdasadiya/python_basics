@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: What Is Programming
 # Learning Objective: Understand that programming means giving instructions to a computer.
 # Short Explanation: A program is a set of step-by-step instructions, like a recipe for a computer.

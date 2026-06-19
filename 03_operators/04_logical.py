@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Logical Operators
 # Learning Objective: Combine Boolean conditions.
 # Short Explanation: and, or, and not help make decisions with multiple rules.

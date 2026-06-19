@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Marks Example
 # Learning Objective: Apply conditions to exam marks.
 # Short Explanation: Programs often use conditions to decide grades, access, discounts, and results.

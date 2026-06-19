@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: json Module
 # Learning Objective: Convert between dictionaries and JSON text.
 # Short Explanation: JSON is a common format for APIs and configuration.

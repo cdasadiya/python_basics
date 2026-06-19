@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Input and Output
 # Learning Objective: Understand input() and print() without blocking this demo.
 # Short Explanation: input() reads user text; print() shows output. This file uses sample input so it runs automatically.

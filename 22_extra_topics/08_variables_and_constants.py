@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Variables and Constants
 # Learning Objective: Store values in names and understand values that should not change.
 # Short Explanation: A variable is a named box for data. A constant is a value we agree not to change, written in uppercase by convention.

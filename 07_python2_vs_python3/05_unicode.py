@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Unicode
 # Learning Objective: Understand text support in Python 3.
 # Short Explanation: Python 3 strings support Unicode by default, so many languages and emojis work.

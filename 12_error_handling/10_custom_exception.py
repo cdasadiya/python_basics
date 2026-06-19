@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Custom Exception
 # Learning Objective: Create your own exception type.
 # Short Explanation: Custom exceptions give meaningful names to special error cases.

@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: for Loop
 # Learning Objective: Repeat code for each item.
 # Short Explanation: A for loop is useful when you know what collection you want to process.

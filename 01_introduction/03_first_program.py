@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: First Program
 # Learning Objective: Run the classic first Python program.
 # Short Explanation: The first program usually prints Hello, World! to prove Python is working.

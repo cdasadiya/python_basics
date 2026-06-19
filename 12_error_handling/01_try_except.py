@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: try except
 # Learning Objective: Handle runtime errors gracefully.
 # Short Explanation: try except lets a program continue instead of crashing.

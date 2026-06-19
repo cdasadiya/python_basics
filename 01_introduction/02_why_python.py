@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Why Python
 # Learning Objective: Learn why Python is popular for beginners and professionals.
 # Short Explanation: Python uses readable English-like syntax and works in web, data, automation, AI, and more.

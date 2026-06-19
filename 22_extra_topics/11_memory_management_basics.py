@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Python Memory Management Basics
 # Learning Objective: Understand how Python stores and cleans up values.
 # Short Explanation: Python automatically manages memory, so beginners focus on references, reuse, and avoiding unnecessary huge data.

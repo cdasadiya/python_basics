@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Create Tuple
 # Learning Objective: Create an ordered unchangeable collection.
 # Short Explanation: Tuples protect data that should not change.

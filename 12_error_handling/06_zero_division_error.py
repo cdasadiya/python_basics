@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: ZeroDivisionError
 # Learning Objective: Handle division by zero.
 # Short Explanation: Math does not allow dividing by zero.

@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Age Calculator
 # Learning Objective: Calculate age from birth year.
 # Short Explanation: Age is current year minus birth year, adjusted for birthday in real apps.

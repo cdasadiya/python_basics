@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: raw_input vs input
 # Learning Objective: Compare old raw_input with Python 3 input.
 # Short Explanation: Python 3 input() reads text; raw_input() existed in Python 2.

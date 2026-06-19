@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: while Loop
 # Learning Objective: Repeat while a condition is true.
 # Short Explanation: A while loop continues until its condition becomes false.

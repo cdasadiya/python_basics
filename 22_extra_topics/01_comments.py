@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Comments and Python Coding Standards
 # Learning Objective: Use comments and PEP8-style readable code.
 # Short Explanation: Comments explain why code exists; PEP8 recommends readable names and spacing.

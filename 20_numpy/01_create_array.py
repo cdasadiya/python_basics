@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Create NumPy Array
 # Learning Objective: Create arrays for numerical work.
 # Short Explanation: NumPy arrays are fast containers for numbers.

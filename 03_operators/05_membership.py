@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Membership Operators
 # Learning Objective: Check if a value exists inside a sequence.
 # Short Explanation: in and not in answer whether something is inside a list or string.
