@@ -2,6 +2,11 @@
 
 A complete beginner-friendly Python learning repository from absolute beginner to intermediate level.
 
+
+## 📋 Technical Audit and Expansion Roadmap
+
+A complete repository audit and professional expansion plan is available in [`AUDIT_REPORT.md`](AUDIT_REPORT.md). It reviews every folder and file, identifies duplicate topics, maps missing Python concepts, separates core Python from AI ecosystem prerequisites, and proposes a phased roadmap to grow this repository from beginner Python into advanced Python and AI foundations.
+
 ## Author
 
 | Field | Details |
