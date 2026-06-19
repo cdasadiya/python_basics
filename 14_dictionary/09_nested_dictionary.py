@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Nested Dictionary
 # Learning Objective: Store dictionaries inside a dictionary.
 # Short Explanation: Nested dictionaries represent grouped records.

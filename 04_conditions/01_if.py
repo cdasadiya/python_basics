@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: if Statement
 # Learning Objective: Run code only when a condition is true.
 # Short Explanation: An if statement is like saying: if this happens, do that.

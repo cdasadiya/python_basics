@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Unique Values
 # Learning Objective: Remove duplicates with a set.
 # Short Explanation: Converting a list to a set keeps unique values.

@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: if elif else and Nested Conditions
 # Learning Objective: Check many conditions including one condition inside another.
 # Short Explanation: elif means otherwise if. Nested conditions are if statements inside if statements.

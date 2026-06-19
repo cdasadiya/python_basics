@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Broadcasting
 # Learning Objective: Apply operations across arrays.
 # Short Explanation: Broadcasting lets NumPy combine arrays and single numbers.

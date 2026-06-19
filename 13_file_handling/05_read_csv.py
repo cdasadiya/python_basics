@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Read CSV File
 # Learning Objective: Read table data from CSV.
 # Short Explanation: csv.DictReader reads each row as a dictionary.

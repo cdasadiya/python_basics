@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: List vs Tuple
 # Learning Objective: Compare changeable and unchangeable collections.
 # Short Explanation: Use lists for changing data and tuples for fixed data.

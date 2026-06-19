@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: if else Statement
 # Learning Objective: Choose between two paths.
 # Short Explanation: if else lets a program pick one result when true and another when false.

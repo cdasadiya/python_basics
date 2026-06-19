@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Numbers
 # Learning Objective: Use integers and decimals in Python.
 # Short Explanation: Numbers store quantities like age, marks, price, and distance.

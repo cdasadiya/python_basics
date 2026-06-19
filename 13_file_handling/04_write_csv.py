@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Write CSV File
 # Learning Objective: Write table data to CSV.
 # Short Explanation: CSV files store rows and columns and open in spreadsheet apps.

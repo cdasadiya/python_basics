@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Identity Operators
 # Learning Objective: Compare whether variables point to the same object.
 # Short Explanation: is checks object identity, not just equal value.

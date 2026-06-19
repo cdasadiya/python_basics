@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: range() Examples
 # Learning Objective: Use start, stop, and step.
 # Short Explanation: range(start, stop, step) controls where numbers begin, end, and jump.

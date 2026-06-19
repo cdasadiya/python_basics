@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Append Text File
 # Learning Objective: Add text to an existing file.
 # Short Explanation: Append mode keeps old content and adds new content at the end.

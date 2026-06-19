@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Recursion
 # Learning Objective: Call a function from itself safely.
 # Short Explanation: Recursion solves problems by breaking them into smaller versions.

@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Python 2 vs Python 3 Summary
 # Learning Objective: Review important differences.
 # Short Explanation: Python 3 is the modern version and should be used for new learning and projects.

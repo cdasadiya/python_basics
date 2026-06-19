@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Escape Characters
 # Learning Objective: Use special characters inside strings.
 # Short Explanation: Escape characters start with a backslash and help write tabs, new lines, quotes, and backslashes inside text.

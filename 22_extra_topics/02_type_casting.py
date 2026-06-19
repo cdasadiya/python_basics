@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Type Casting
 # Learning Objective: Convert between types intentionally.
 # Short Explanation: Casting helps when data arrives as text but needs math.

@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: List Real-Time Examples
 # Learning Objective: Use lists in common situations.
 # Short Explanation: Lists can store classroom names, shopping items, and scores.

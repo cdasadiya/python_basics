@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Symmetric Difference
 # Learning Objective: Find values not shared.
 # Short Explanation: Symmetric difference returns values that are in either set but not both.

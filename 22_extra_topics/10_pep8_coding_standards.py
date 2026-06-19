@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Python Coding Standards PEP8
 # Learning Objective: Write readable Python code using common style rules.
 # Short Explanation: PEP8 is Python guidance for clean names, spacing, indentation, and organization.

@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Type Conversion
 # Learning Objective: Convert values from one data type to another.
 # Short Explanation: Type conversion changes data, for example from text "10" to number 10.

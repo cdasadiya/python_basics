@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: requests Module
 # Learning Objective: Understand third-party package usage.
 # Short Explanation: requests helps call websites and APIs; this demo prepares a request without using the network.
