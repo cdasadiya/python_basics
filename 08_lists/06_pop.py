@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: List pop()
 # Learning Objective: Remove by index and get the removed value.
 # Short Explanation: pop() is useful when taking the last item from a stack.

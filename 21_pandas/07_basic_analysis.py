@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Basic Data Analysis
 # Learning Objective: Use describe and simple statistics.
 # Short Explanation: Pandas can quickly summarize data.

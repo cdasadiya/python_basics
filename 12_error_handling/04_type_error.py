@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: TypeError
 # Learning Objective: Handle wrong type operations.
 # Short Explanation: TypeError can happen when combining incompatible types.

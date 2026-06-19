@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Local and Global Scope
 # Learning Objective: Understand where variables can be used.
 # Short Explanation: Local variables live inside functions; global variables live outside.

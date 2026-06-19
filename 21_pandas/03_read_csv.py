@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Pandas Read CSV
 # Learning Objective: Read CSV into a DataFrame.
 # Short Explanation: read_csv loads spreadsheet-style data.

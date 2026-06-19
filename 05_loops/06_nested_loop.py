@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Nested Loops
 # Learning Objective: Use a loop inside another loop.
 # Short Explanation: Nested loops are helpful for grids, tables, and combinations.

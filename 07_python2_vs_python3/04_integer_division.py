@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Integer Division
 # Learning Objective: Compare division behavior.
 # Short Explanation: Python 3 / gives decimal division; // gives floor division.

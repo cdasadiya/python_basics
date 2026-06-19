@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: range vs xrange
 # Learning Objective: Understand Python 2 xrange and Python 3 range.
 # Short Explanation: Python 3 does not have xrange; range is memory efficient now.

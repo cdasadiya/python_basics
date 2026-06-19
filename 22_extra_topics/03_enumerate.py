@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: enumerate()
 # Learning Objective: Loop with index and value together.
 # Short Explanation: enumerate() is useful when you need item numbers.

@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: print Statement vs Function
 # Learning Objective: Compare Python 2 print statement and Python 3 print function.
 # Short Explanation: Python 3 uses print() as a function with parentheses.

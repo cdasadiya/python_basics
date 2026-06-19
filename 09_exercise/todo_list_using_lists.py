@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: Todo List Using Lists
 # Learning Objective: Practice list operations with a simple todo example.
 # Short Explanation: This is not a full project; it is one topic exercise showing list add/remove/display.

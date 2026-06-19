@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: KeyError
 # Learning Objective: Handle missing dictionary keys.
 # Short Explanation: KeyError happens when a dictionary key is missing.

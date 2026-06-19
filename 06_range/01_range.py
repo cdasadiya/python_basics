@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: range()
 # Learning Objective: Generate a sequence of numbers.
 # Short Explanation: range() creates numbers for loops without writing every number manually.

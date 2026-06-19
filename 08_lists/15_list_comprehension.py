@@ -1,5 +1,5 @@
-# Author: YOUR_NAME
-# LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author: Chaitanya Dasadiya
+# LinkedIn: https://www.linkedin.com/in/chaitanya-dasadiya
 # Topic Name: List Comprehension
 # Learning Objective: Create lists in one readable line.
 # Short Explanation: A list comprehension builds a new list from an existing sequence.
